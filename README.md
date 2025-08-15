@@ -14,10 +14,10 @@ Includes:
 - Analysis report with behavioral insights
 
 ## 📂 Project Structure
-  honeypot.py # Honeypot server
-  honeypot_simulator.py # Attack simulator
-  log_analyzer.py # Log analyzer
-  honeypot_logs/ # Log storage (ignored in Git)
+- honeypot.py # Honeypot server
+- honeypot_simulator.py # Attack simulator
+- log_analyzer.py # Log analyzer
+- honeypot_logs/ # Log storage (ignored in Git)
 
 ## ⚙️ Requirements
 - Python 3.x  
@@ -60,4 +60,5 @@ Do not expose to the public internet without precautions.
 ## 📜 License
 
 MIT License
+
 
